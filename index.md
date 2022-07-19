@@ -7,18 +7,24 @@ show_sidebar: true
 ---
 
 # About
+I am a PhD student in [Systems Biology Ireland](https://www.ucd.ie/sbi/) as part of the [Centre for Research Training (CRT) Genomics Data Science](https://genomicsdatascience.ie/) programme, co-funded by the European Commission’s Marie Sklodowska Curie Actions (MSCA) COFUND programme. 
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+My work involves finding molecular vulnerabilities in high-risk pediatric leukemia through biological network analysis. I am interested in exploiting omics data to better understand childhood leukemia to aid in the development of better treatments. 
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
-![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)
+I am currently part of the [Bond]([
+](https://www.ucd.ie/sbi/team/groups/bondgroup/) and [Ryan](https://www.ucd.ie/sbi/team/groups/ryangroup/) groups in [SBI, UCD](https://www.ucd.ie/sbi/).
 
-## Ruby Gem
+
+<!---[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
+![Gem](https://img.shields.io/gem/dt/bulm[
+](https://www.ucd.ie/sbi/team/groups/bondgroup/)a-clean-theme.svg)
+![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)--->
+
+## Background
 
 The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
 
-## GitHub Pages
+## Presentations
 
 The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
 
@@ -26,7 +32,7 @@ The theme can be used with GitHub Pages by setting the `remote_theme` in your Je
 remote_theme: chrisrhymes/bulma-clean-theme
 ```
 
-## Documentation
+<!---## Documentation
 
 For full instructions, please see the [Documentation](/bulma-clean-theme/docs/)
 
@@ -45,5 +51,5 @@ This demo site showcases the available page layout options.
 * Image Gallery
 * Recipe Page
 * Blog
-* Post
+* Post--->
 
