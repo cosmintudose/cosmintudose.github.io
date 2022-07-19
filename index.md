@@ -36,7 +36,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
               <td><b>MSci Hons Genetics </b> <br>2012 - 2016 <br> Awarded a first class MSci Hons degree in Genetics. </td>
               </tr>
     
-<div class="row" id="presentations">
+<div class="row" id="presentations" markdown="1">
   <div class="col-lg-12 col-md-12 col-sm-12">
     <h2><i class="fa fa-graduation-cap"></i> Presentations</h2>
       <table class="table table-hover">
@@ -56,14 +56,14 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
   </div>
 </div>
 
-<!---## Presentations
+## Presentations
 
 The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
 
 
 ## Projects
 ```yml
-remote_theme: chrisrhymes/bulma-clean-theme--->
+remote_theme: chrisrhymes/bulma-clean-theme
 ```
 
 <!---## Documentation
