@@ -12,11 +12,11 @@ html {
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 4.5rem;
+  font-size: 1.125rem;
+  margin: -2rem -2rem;
+  padding -2rem -2rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
-  margin:0; 
-  padding:0;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
