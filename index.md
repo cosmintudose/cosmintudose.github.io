@@ -35,13 +35,14 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 </td>
               <td><b>MSci Hons Genetics </b> <br>2012 - 2016 <br> Awarded a first class MSci Hons degree in Genetics. </td>
               </tr>
-                        </tbody>
-        </table>
-      </div>
-    </div>
+        </tbody>
+    </table>
+  </div>
+</div>
     
 
-    ## Presentations
+
+## Presentations
 
 The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
 
