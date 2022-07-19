@@ -21,7 +21,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 
 ## Background
 
-![alt text](/logos.uon.png) MSci Genetics University of Nottingham 
+![alt text](./logos/uon.png) MSci Genetics University of Nottingham 
 
 ## Presentations
 
