@@ -51,10 +51,6 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 </td>
               <td><b>MSci Hons Genetics </b> <br>2012 - 2016 <br> Awarded a first class MSci Hons degree in Genetics. </td>
               </tr>
-        </tbody>
-    </table>
-  </div>
-</div>
 
 ## Presentations
 
