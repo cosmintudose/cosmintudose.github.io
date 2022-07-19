@@ -14,8 +14,8 @@ author: Cosmin Tudose
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Resume: "aboutme"
-  NavBar1: "aboutme"
+  Resume: "resume"
+  NavBar1: "resume"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
