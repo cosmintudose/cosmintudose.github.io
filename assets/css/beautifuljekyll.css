@@ -8,19 +8,12 @@ layout: null
 
 html {
   font-size: 100%;
-  margin-left: 0;
-  margin-right: 0;
-  padding-left: 0;
 }
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   text-align: justify;
-  margin-left: -50px;
-  padding-left: -50px;
-  margin-right: -100px;
-  padding-right:-50px;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
