@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 1.125rem;
+  font-size: 5rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -73,7 +73,7 @@ hr.small {
   content: "";
   display: block;
   height: 3.125rem; /* navbar height */
-  margin: -3.125rem 0 0;
+  margin: 0 0 0;
 }
 
 .hideme {
