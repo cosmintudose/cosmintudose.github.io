@@ -236,14 +236,14 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: "home"
       comments: false  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
-      layout: "page"
+      layout: "home"
 
 # Exclude these files from production site
 exclude:
