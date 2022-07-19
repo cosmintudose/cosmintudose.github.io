@@ -30,25 +30,20 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
               <th scope="col-md-11 border-top-0"></th>
             </tr>
           </thead>
-          <tbody>
+            <tbody>
             <tr>
-              <td><img src="./logos/sbi.png" alt="SGC" width="100"><br><br>
-              <img src="./logos/crt.png" alt="NDM" width="100"><br>
+              <td><img src="./logos/sbi.png" alt="SGC" width="200"><br><br>
+              <img src="./logos/crt.png" alt="NDM" width="200"><br>
 </td>
-              <td><b>PhD student, Systems Biology Ireland, UCD </b> <br>2020 - present </br><br>Identifying molecular vulenarabilities in childhood leukaemia through biological network analysis.</td>
+              <td><b>PhD student, Systems Biology Ireland, UCD </b> <br>2020 - present </b> <br>Identifying molecular vulenarabilities in childhood leukaemia through biological network analysis.</td>
             <tr>
               <td><img src="./logos/uon.png" alt="pic" width="100"><br>
 </td>
-              <td><b>MSci Hons Genetics </b> <br>2012 - 2016 </br><br> Awarded a first class MSci Hons degree in Genetics. </td>
+              <td><b>MSci Hons Genetics </b> <br>2012 - 2016 </b> <br> Awarded a first class MSci Hons degree in Genetics. </td>
             </tr>
-            <tr>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </div>
     
-## Presentations
+
+    ## Presentations
 
 The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
 
