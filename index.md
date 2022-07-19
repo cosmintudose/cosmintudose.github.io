@@ -3,7 +3,7 @@ title: Cosmin Tudose
 subtitle: Cancer Genomics | Bioinformatics | Data Science
 layout: page
 callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
 ---
 
 # About
