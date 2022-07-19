@@ -19,14 +19,41 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 ](https://www.ucd.ie/sbi/team/groups/bondgroup/)a-clean-theme.svg)
 ![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)--->
 
-## Background
 
-![alt text](./logos/uon.png) MSci Genetics University of Nottingham 
-
+<div class="row" id="background">
+  <div class="col-lg-12 col-md-12 col-sm-12">
+    <h2><i class="fa fa-graduation-cap"></i> Background</h2>
+      <table class="table table-hover">
+          <thead>
+            <tr>
+              <th scope="col-md-1 border-top-0"></th>
+              <th scope="col-md-11 border-top-0"></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><img src="./logos/sbi.png" alt="SGC" width="100"><br><br>
+              <img src="./logos/crt.png" alt="NDM" width="100"><br>
+</td>
+              <td><b>PhD student, Systems Biology Ireland, UCD </b> <br>2020 - present </br><br>Identifying molecular vulenarabilities in childhood leukaemia through biological network analysis.</td>
+            <tr>
+              <td><img src="./logos/uon.png" alt="pic" width="100"><br>
+</td>
+              <td><b>MSci Hons Genetics </b> <br>2012 - 2016 </br><br> Awarded a first class MSci Hons degree in Genetics. </td>
+            </tr>
+            <tr>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    
 ## Presentations
 
 The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
 
+
+## Projects
 ```yml
 remote_theme: chrisrhymes/bulma-clean-theme
 ```
