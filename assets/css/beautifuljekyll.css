@@ -14,7 +14,7 @@ body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   margin: -2rem -2rem;
-  padding -2rem -2rem;
+  padding: -2rem -2rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
