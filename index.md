@@ -21,7 +21,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 
 ## Background
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
+![alt text](/logos.uon.png) MSci Genetics University of Nottingham 
 
 ## Presentations
 
