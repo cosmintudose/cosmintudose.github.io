@@ -61,7 +61,7 @@ blockquote p:first-child {
   margin-top: 0;
 }
 hr.small {
-  max-width: 6.25rem;
+  max-width: 15.25rem;
   margin: 1rem auto;
   border-width: 0.25rem;
   border-color: inherit;
@@ -73,7 +73,7 @@ hr.small {
   content: "";
   display: block;
   height: 3.125rem; /* navbar height */
-  margin: 0 0 0;
+  margin: -3.125rem 0 0;
 }
 
 .hideme {
