@@ -32,7 +32,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
               <td><b>MSci Hons Genetics </b> <br>2016 - 2020 <br> Awarded a first class MSci Hons degree in Genetics. </td> </tr>
 </table>
                 
-<div markdown="1"> 
+
 <h2><i class="fas fa-microscope"></i><i class="fas fa-laptop-code"></i> Projects</h2>
 <table class="table table-hover">
               <tr>
@@ -45,9 +45,12 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
               <td><b>Masters project </b> <br>Sep 2019 - May 2020 <br> Supervisor: [Prof John Armour](https://www.nottingham.ac.uk/life-sciences/people/john.armour) <br> Studied copy-number variations in the human genome using by Nanopore reads. <br> Developed a pipeline that can identify copy-number variants and separate the two haplotypes based on read depth and read length.  </td> </tr>
               <tr>
               <td><img src="./logos/uon.png" alt="UoN" width="250"><br></td>
-              <td><b>Summer internship </b> <br> Jun 2019 - Aug 2019 <br> Supervisor: [Dr Martin Gering](https://www.nottingham.ac.uk/life-sciences/people/martin.gering) <br> Worked on zebrafish mutant embryos to investigate how the expression of macrophage marker genes changes over different time-points post fertilisation. <br> Acquired an insight into the areas of developmental biology and gene regulation. <br> Methods used: embryo handling, RNA in-situ hybridization, PCR and light microscopy. </td> </tr>
+              <td><b>Summer internship </b> <br> Jun 2019 - Aug 2019 <br> 
+                          Supervisor: [Dr Martin Gering](https://www.nottingham.ac.uk/life-sciences/people/martin.gering) 
+                          <br> 
+                          Worked on zebrafish mutant embryos to investigate how the expression of macrophage marker genes changes over different time-points post fertilisation. <br> Acquired an insight into the areas of developmental biology and gene regulation. <br> Methods used: embryo handling, RNA in-situ hybridization, PCR and light microscopy. </td> </tr>
 </table>
-</div>
+
 
 <div><h2>Presentations</h2></div>
 
