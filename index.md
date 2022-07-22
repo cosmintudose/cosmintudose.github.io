@@ -20,9 +20,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 ![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)--->
 
 
-<div class="row" id="background" markdown="1">
-  <div class="col-lg-12 col-md-12 col-sm-12">
-    <h2><i class="fa fa-graduation-cap"></i> Background</h2>
+<h2><i class="fa fa-graduation-cap"></i> Background</h2>
       <table class="table table-hover">
             <tbody>
             <tr>
@@ -30,22 +28,18 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
               <img src="./logos/crt.png" alt="NDM" width="200">  
 </td>
               <td><b>PhD student, Systems Biology Ireland, UCD </b>  
-                2020 - present  <br>
+                2020 - present  </br>
                 Identifying molecular vulenarabilities in childhood leukaemia through biological network analysis.</td>
             <tr>
               <td><img src="./logos/uon.png" alt="pic" width="100"> 
 </td>
               <td><b>MSci Hons Genetics </b> 
-                2012 - 2016  <br>
+                2012 - 2016  </br>
                 Awarded a first class MSci Hons degree in Genetics. </td>
               </tr>
-  </tbody>
-</table>
-</div>
-</div>
 
 
-| |  | |
+| a| b | c|
 --- | --- | ---|
 |data1|data2|data3|
 |data11|data12|data13|
