@@ -29,7 +29,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
               <td><b>PhD student, Systems Biology Ireland, UCD </b> <br>2020 - present <br>Identifying molecular vulenarabilities in childhood leukaemia through biological network analysis.</td> </tr>
               <tr>
               <td><img src="./logos/uon.png" alt="pic" width="100"><br></td>
-              <td><b>MSci Hons Genetics </b> <br>2012 - 2016 <br> Awarded a first class MSci Hons degree in Genetics. </td> </tr>
+              <td><b>MSci Hons Genetics </b> <br>2016 - 2020 <br> Awarded a first class MSci Hons degree in Genetics. </td> </tr>
 </table>
                 
  
@@ -42,10 +42,10 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
               <td><b>PhD student, Systems Biology Ireland, UCD </b> <br>2020 - present <br>Identifying molecular vulenarabilities in childhood leukaemia through biological network analysis.</td> </tr>         
               <tr>
               <td><img src="./logos/uon.png" alt="pic" width="100"><br></td>
-              <td><b>Zebrafish work </b> <br> Jun 2015 - Aug 2015 <br> Fishies haematopoiesis </td> </tr>
+              <td><b>Zebrafish work </b> <br> Jun 2019 - Aug 2019 <br> Fishies haematopoiesis </td> </tr>
               <tr>
               <td><img src="./logos/uon.png" alt="pic" width="100"><br></td>
-              <td><b>Nanopore </b> <br>Sep 2015 - May 2016 <br> Nanopore thingy. </td> </tr>
+              <td><b>Nanopore </b> <br>Sep 2019 - May 2020 <br> Nanopore thingy. </td> </tr>
 </table>
  
 <div><h2>Presentations</h2></div>
