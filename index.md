@@ -39,27 +39,16 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
                 2012 - 2016  <br>
                 Awarded a first class MSci Hons degree in Genetics. </td>
               </tr>
-              </table>
-              </tbody>
-              </div>
-              </div>
-    
-<div class="row" id="presentations" markdown="1">
-  <div class="col-lg-12 col-md-12 col-sm-12">
-    <h2><i class="fa fa-graduation-cap"></i> Presentations</h2>
-      <table class="table table-hover">
-            <tbody>
-            <tr>
-              <td><img src="./logos/sbi.png" alt="SGC" width="200"><br><br>
-              <img src="./logos/crt.png" alt="NDM" width="200"><br>
-</td>
-              <td><b>PhD student, Systems Biology Ireland, UCD </b> <br>2020 - present <br>Identifying molecular vulenarabilities in childhood leukaemia through biological network analysis.</td>
-            <tr>
-              <td><img src="./logos/uon.png" alt="pic" width="100"><br>
-</td>
-              <td><b>MSci Hons Genetics </b> <br>2012 - 2016 <br> Awarded a first class MSci Hons degree in Genetics. </td>
-              </tr>
+  </tbody>
+</table>
+</div>
+</div>
 
+
+| |  | |
+--- | --- | ---|
+|data1|data2|data3|
+|data11|data12|data13|
               
 <h2> Presentations </h2>
 
