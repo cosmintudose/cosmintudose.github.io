@@ -39,6 +39,10 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
                 2012 - 2016  <br>
                 Awarded a first class MSci Hons degree in Genetics. </td>
               </tr>
+              </table>
+              </tbody>
+              </div>
+              </div>
     
 <div class="row" id="presentations" markdown="1">
   <div class="col-lg-12 col-md-12 col-sm-12">
