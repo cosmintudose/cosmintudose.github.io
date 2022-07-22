@@ -19,49 +19,38 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 ](https://www.ucd.ie/sbi/team/groups/bondgroup/)a-clean-theme.svg)
 ![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)--->
 
-
-<h2><i class="fa fa-graduation-cap"></i> Background</h2>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<div class="row" id="background" markdown="1">
+  <div class="col-lg-12 col-md-12 col-sm-12">
+    <h2><i class="fa fa-graduation-cap"></i> Background</h2>
       <table class="table table-hover">
             <tbody>
             <tr>
-              <td><img src="./logos/sbi.png" alt="SGC" width="200">    
-              <img src="./logos/crt.png" alt="NDM" width="200">  
+              <td><img src="./logos/sbi.png" alt="SGC" width="200"><br><br>
+              <img src="./logos/crt.png" alt="NDM" width="200"><br>
 </td>
-              <td><b>PhD student, Systems Biology Ireland, UCD </b>  
-                2020 - present  </br>
-                Identifying molecular vulenarabilities in childhood leukaemia through biological network analysis.</td>
+              <td><b>PhD student, Systems Biology Ireland, UCD </b> <br>2020 - present <br>Identifying molecular vulenarabilities in childhood leukaemia through biological network analysis.</td>
             <tr>
-              <td><img src="./logos/uon.png" alt="pic" width="100"> 
+              <td><img src="./logos/uon.png" alt="pic" width="100"><br>
 </td>
-              <td><b>MSci Hons Genetics </b> 
-                2012 - 2016  </br>
-                Awarded a first class MSci Hons degree in Genetics. </td>
+              <td><b>MSci Hons Genetics </b> <br>2012 - 2016 <br> Awarded a first class MSci Hons degree in Genetics. </td>
               </tr>
+    
 
-
-| a| b | c|
---- | --- | ---|
-|data1|data2|data3|
-|data11|data12|data13|
-              
-<h2> Presentations </h2>
+## Presentations
 
 The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
 
 
-<h2> Projects </h2>
+## Projects
 ```yml
 remote_theme: chrisrhymes/bulma-clean-theme
 ```
 
 <!---## Documentation
-
 For full instructions, please see the [Documentation](/bulma-clean-theme/docs/)
-
 ## Page Layouts
-
 This demo site showcases the available page layout options. 
-
 * Sidebar
 * Menubar
 * Tabs
@@ -74,4 +63,3 @@ This demo site showcases the available page layout options.
 * Recipe Page
 * Blog
 * Post--->
-
