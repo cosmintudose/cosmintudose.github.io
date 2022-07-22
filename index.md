@@ -19,9 +19,9 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 ](https://www.ucd.ie/sbi/team/groups/bondgroup/)a-clean-theme.svg)
 ![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)--->
 
-   <h2><i class="fa fa-graduation-cap"></i> Background</h2>
-      <TABLE class="table table-hover">
-            <TBODY>
+<h2><i class="fa fa-graduation-cap"></i> Background</h2>
+
+<table class="table table-hover">
             <tr>
               <td><img src="./logos/sbi.png" alt="SGC" width="200"><br><br>
               <img src="./logos/crt.png" alt="NDM" width="200"><br>
@@ -30,7 +30,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
               <tr>
               <td><img src="./logos/uon.png" alt="pic" width="100"><br></td>
               <td><b>MSci Hons Genetics </b> <br>2012 - 2016 <br> Awarded a first class MSci Hons degree in Genetics. </td>
-                </TBODY></TABLE>
+</table>
                 
                 
 <div><h2>Presentations</h2></div>
