@@ -33,7 +33,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 </table>
                 
  
-<div><h2>Projects</h2></div>
+<h2><i class="fas fa-chalkboard-teacher"></i> Projects</h2>
 <table class="table table-hover">
               <tr>
               <td><img src="./logos/sbi.png" alt="SBI" width="300"><br><br>
