@@ -23,12 +23,12 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 
 <table class="table table-hover">
             <tr>
-              <td><img src="./logos/sbi.png" alt="SGC" width="200"><br><br>
-              <img src="./logos/crt.png" alt="NDM" width="200"><br>
+              <td><img src="./logos/sbi.png" alt="SBI" width="300"><br><br>
+              <img src="./logos/crt.png" alt="CRT" width="300"><br>
 </td>
               <td><b>PhD student, Systems Biology Ireland, UCD </b> <br>2020 - present <br>Identifying molecular vulenarabilities in childhood leukaemia through biological network analysis.</td> </tr>
               <tr>
-              <td><img src="./logos/uon.png" alt="pic" width="100"><br></td>
+              <td><img src="./logos/uon.png" alt="UoN" width="300"><br></td>
               <td><b>MSci Hons Genetics </b> <br>2016 - 2020 <br> Awarded a first class MSci Hons degree in Genetics. </td> </tr>
 </table>
                 
@@ -36,15 +36,15 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 <div><h2>Projects</h2></div>
 <table class="table table-hover">
               <tr>
-              <td><img src="./logos/sbi.png" alt="SGC" width="200"><br><br>
-              <img src="./logos/crt.png" alt="NDM" width="200"><br>
+              <td><img src="./logos/sbi.png" alt="SBI" width="300"><br><br>
+              <img src="./logos/crt.png" alt="CRT" width="300"><br>
 </td>
               <td><b>PhD student, Systems Biology Ireland, UCD </b> <br>2020 - present <br>Identifying molecular vulenarabilities in childhood leukaemia through biological network analysis.</td> </tr>         
               <tr>
-              <td><img src="./logos/uon.png" alt="pic" width="100"><br></td>
+              <td><img src="./logos/uon.png" alt="UoN" width="300"><br></td>
               <td><b>Zebrafish work </b> <br> Jun 2019 - Aug 2019 <br> Fishies haematopoiesis </td> </tr>
               <tr>
-              <td><img src="./logos/uon.png" alt="pic" width="100"><br></td>
+              <td><img src="./logos/uon.png" alt="UoN" width="300"><br></td>
               <td><b>Nanopore </b> <br>Sep 2019 - May 2020 <br> Nanopore thingy. </td> </tr>
 </table>
  
