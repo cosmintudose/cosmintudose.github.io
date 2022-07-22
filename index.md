@@ -30,7 +30,8 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
               <tr>
               <td><img src="./logos/uon.png" alt="pic" width="100"><br></td>
               <td><b>MSci Hons Genetics </b> <br>2012 - 2016 <br> Awarded a first class MSci Hons degree in Genetics. </td>
-</table>
+a
+                          </table>
                 
                 
 <div><h2>Presentations</h2></div>
