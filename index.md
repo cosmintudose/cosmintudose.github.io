@@ -34,7 +34,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
                 
  
 <h2><i class="fas fa-microscope"></i><i class="fas fa-laptop-code"></i> Projects</h2>
-<table class="table table-hover">
+<table class="table table-hover" markdown="1">
               <tr>
               <td><img src="./logos/sbi.png" alt="SBI" width="300"><br><br>
               <img src="./logos/crt.png" alt="CRT" width="300"><br>
