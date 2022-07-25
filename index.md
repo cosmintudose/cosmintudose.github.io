@@ -55,17 +55,16 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
                           Worked on zebrafish mutant embryos to investigate how <br> the expression of macrophage marker genes changes over <br> different time-points post fertilisation. <br> Learnt about developmental biology and gene regulation. <br> Methods used: embryo handling, RNA in-situ hybridization, <br> PCR and light microscopy. </td> </tr>
 </table>
 
+<div><h2><i class="fas fa-chalkboard-teacher"></i> Presentations</h2></div>
 
-<div><h2>Presentations</h2></div>
+June 2022 - **VIBE Conference** - Limerick, Ireland  
+Talk: Sensitivity to gene inhibition in cancer cells is better predicted by mRNA abundance than by gene regulatory network-inferred activity  
 
-June 2022 - VIBE Conference - Limerick
-Talk: Sensitivity to gene inhibition in cancer cells is better predicted by mRNA abundance than by gene regulatory network-inferred activity
+February 2022 - **Systems Genomics Summit** - Online  
+Poster: Gene regulatory network-inferred driver activity as a predictor of cancer cells sensitivity to gene inhibition  
 
-February 2022 - Systems Genomics Summit - Online
-Poster: Gene regulatory network-inferred driver activity as a predictor of cancer cells sensitivity to gene inhibition
-
-October 2021 - Conway Festival - Online
-Poster: Gene regulatory network-inferred driver activity as a predictor of cancer cells sensitivity to gene inhibition
+October 2021 - **Conway Festival** - Online  
+Poster: Gene regulatory network-inferred driver activity as a predictor of cancer cells sensitivity to gene inhibition  
 
 
 <!---## Documentation
