@@ -16,7 +16,8 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 <p>&nbsp;</p>
 
 
-<h2><i class="fa fa-graduation-cap"></i> Background</h2> <br>
+<h2><i class="fa fa-graduation-cap"></i> Background</h2>
+<br style="line-height: 10px" />
 
 <table class="table table-hover">
             <tr>
@@ -31,7 +32,9 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
                 
 <p>&nbsp;</p>
 
-<h2><i class="fas fa-microscope"></i><i class="fas fa-laptop-code"></i> Projects</h2> <br>
+<h2><i class="fas fa-microscope"></i><i class="fas fa-laptop-code"></i> Projects</h2>
+
+<p style="margin:10px;"></p>
 
 <table class="table table-hover">
               <tr>
