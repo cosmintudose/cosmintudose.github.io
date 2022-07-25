@@ -58,8 +58,14 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 
 <div><h2>Presentations</h2></div>
 
-The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
+June 2022 - VIBE Conference - Limerick
+Talk: Sensitivity to gene inhibition in cancer cells is better predicted by mRNA abundance than by gene regulatory network-inferred activity
 
+February 2022 - Systems Genomics Summit - Online
+Poster: Gene regulatory network-inferred driver activity as a predictor of cancer cells sensitivity to gene inhibition
+
+October 2021 - Conway Festival - Online
+Poster: Gene regulatory network-inferred driver activity as a predictor of cancer cells sensitivity to gene inhibition
 
 
 <!---## Documentation
