@@ -1,5 +1,3 @@
-<p>&nbsp;</p>
-
 ---
 title: Cosmin Tudose
 subtitle: Cancer Genomics | Bioinformatics | Data Science
