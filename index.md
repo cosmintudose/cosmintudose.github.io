@@ -13,11 +13,8 @@ My work involves finding molecular vulnerabilities in high-risk pediatric leukem
 
 I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/) and [Ryan](https://www.ucd.ie/sbi/team/groups/ryangroup/) groups in [SBI, UCD](https://www.ucd.ie/sbi/).
 
+<p>&nbsp;</p>
 
-<!---[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulm[
-](https://www.ucd.ie/sbi/team/groups/bondgroup/)a-clean-theme.svg)
-![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)--->
 
 <h2><i class="fa fa-graduation-cap"></i> Background</h2>
 
@@ -32,6 +29,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
               <td><b>MSci Hons Genetics </b> <br>2016 - 2020 <br> Awarded a first class MSci Hons degree in Genetics. </td> </tr>
 </table>
                 
+<p>&nbsp;</p>
 
 <h2><i class="fas fa-microscope"></i><i class="fas fa-laptop-code"></i> Projects</h2>
 <table class="table table-hover">
@@ -55,15 +53,17 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
                           Worked on zebrafish mutant embryos to investigate how <br> the expression of macrophage marker genes changes over <br> different time-points post fertilisation. <br> Learnt about developmental biology and gene regulation. <br> Methods used: embryo handling, RNA in-situ hybridization, <br> PCR and light microscopy. </td> </tr>
 </table>
 
+<p>&nbsp;</p>
+
 <div><h2><i class="fas fa-chalkboard-teacher"></i> Presentations</h2></div>
 
-June 2022 - **VIBE Conference** - Limerick, Ireland  
+- June 2022 - **VIBE Conference** - Limerick, Ireland  
 Talk: Sensitivity to gene inhibition in cancer cells is better predicted by mRNA abundance than by gene regulatory network-inferred activity  
 
-February 2022 - **Systems Genomics Summit** - Online  
+- February 2022 - **Systems Genomics Summit** - Online  
 Poster: Gene regulatory network-inferred driver activity as a predictor of cancer cells sensitivity to gene inhibition  
 
-October 2021 - **Conway Festival** - Online  
+- October 2021 - **Conway Festival** - Online  
 Poster: Gene regulatory network-inferred driver activity as a predictor of cancer cells sensitivity to gene inhibition  
 
 
