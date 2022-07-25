@@ -39,16 +39,20 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
               <td><img src="./logos/sbi.png" alt="SBI" width="250"><br><br>
               <img src="./logos/crt.png" alt="CRT" width="250"><br>
 </td>
-              <td><b>PhD student, Systems Biology Ireland, UCD </b> <br>2020 - present <br>Identifying molecular vulenarabilities in childhood leukaemia through biological network analysis.</td> </tr>         
+              <td><b>PhD</b> <br>2020 - present <br>
+                          Supervisos:  <a href="https://people.ucd.ie/jonathan.bond">Prof Jonathan Bond</a> and
+                          <a href="https://people.ucd.ie/colm.ryan">Dr Colm Ryan</a><br>
+                          Identifying molecular vulenarabilities in childhood leukaemia through biological network analysis.</td> </tr>         
               <tr>
               <td><img src="./logos/uon.png" alt="UoN" width="250"><br></td>
-              <td><b>Masters project </b> <br>Sep 2019 - May 2020 <br> Supervisor:  <a href="https://www.nottingham.ac.uk/life-sciences/people/john.armour">Prof John Armour</a> <br> Studied copy-number variations in the human genome using Nanopore reads. <br> Developed a pipeline that can identify copy-number variants and separate the two haplotypes based on read depth and read length.  </td> </tr>
+              <td><b>Masters project </b> <br>Sep 2019 - May 2020 <br> 
+                          Supervisor:  <a href="https://www.nottingham.ac.uk/life-sciences/people/john.armour">Prof John Armour</a> <br> Studied copy-number variations in the human genome <br> using Nanopore reads. <br> Developed a pipeline that can identify copy-number <br> variants and separate the two haplotypes based on <br> read depth and read length.  </td> </tr>
               <tr>
               <td><img src="./logos/uon.png" alt="UoN" width="250"><br></td>
               <td><b>Summer internship </b> <br> Jun 2019 - Aug 2019 <br> 
                           Supervisor: <a href="https://www.nottingham.ac.uk/life-sciences/people/martin.gering">Dr Martin Gering</a> 
                           <br> 
-                          Worked on zebrafish mutant embryos to investigate how the expression of macrophage marker genes changes over different time-points post fertilisation. <br> Learnt about developmental biology and gene regulation. <br> Methods used: embryo handling, RNA in-situ hybridization, <br> PCR and light microscopy. </td> </tr>
+                          Worked on zebrafish mutant embryos to investigate how <br> the expression of macrophage marker genes changes over <br> different time-points post fertilisation. <br> Learnt about developmental biology and gene regulation. <br> Methods used: embryo handling, RNA in-situ hybridization, <br> PCR and light microscopy. </td> </tr>
 </table>
 
 
