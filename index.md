@@ -19,7 +19,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 <h2><i class="fas fa-thumbtack"></i> Interesets</h2>
 <p style="margin:30px;"></p>
 
-<table style="border: none;">
+<table style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
     <td style="border: none;"><b style="font-size:25px">Cancer genomics</b></td>
     <td style="border: none;"><b style="font-size:25px">Childhood leukaemia</b></td>
