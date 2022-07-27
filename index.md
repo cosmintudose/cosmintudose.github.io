@@ -52,19 +52,19 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 
 <table class="table table-hover">
               <tr>
-              <td><img src="./logos/sbi.png" alt="SBI" width="250"><br><br>
-              <img src="./logos/crt.png" alt="CRT" width="250"><br>
+              <td><img src="./logos/sbi.png" alt="SBI" width="200"><br><br>
+              <img src="./logos/crt.png" alt="CRT" width="200"><br>
 </td>
               <td><b>PhD</b> <br>2020 - present <br>
                           Supervisos:  <a href="https://people.ucd.ie/jonathan.bond">Prof Jonathan Bond</a> and
                           <a href="https://people.ucd.ie/colm.ryan">Dr Colm Ryan</a><br>
                           Currently working on using biological networks to uncover <br> vulnerabilities in childhood leukaemia. I am using large <br> datasets from patients and cell-line models such as WGS, <br> RNA-Seq, proteomics, CRISPR screens to compare leukaemia subtypes.</td> </tr>         
               <tr>
-              <td><img src="./logos/uon.png" alt="UoN" width="250"><br></td>
+              <td><img src="./logos/uon.png" alt="UoN" width="200"><br></td>
               <td><b>Masters project </b> <br>Sep 2019 - May 2020 <br> 
                           Supervisor:  <a href="https://www.nottingham.ac.uk/life-sciences/people/john.armour">Prof John Armour</a> <br> Studied copy-number variations in the human genome <br> using Nanopore reads. <br> Developed a pipeline that can identify copy-number <br> variants and separate the two haplotypes based on <br> read depth and read length.  </td> </tr>
               <tr>
-              <td><img src="./logos/uon.png" alt="UoN" width="250"><br></td>
+              <td><img src="./logos/uon.png" alt="UoN" width="200"><br></td>
               <td><b>Summer internship </b> <br> Jun 2019 - Aug 2019 <br> 
                           Supervisor: <a href="https://www.nottingham.ac.uk/life-sciences/people/martin.gering">Dr Martin Gering</a> 
                           <br> 
