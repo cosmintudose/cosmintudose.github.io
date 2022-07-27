@@ -19,13 +19,13 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 <h2><i class="fas fa-thumbtack"></i> Interesets</h2>
 <p style="margin:30px;"></p>
 
-<table style="border-collapse: collapse;">
-<tr style="border: none">
-    <td style="border: none"><b style="font-size:25px">Cancer genomics</b></td>
-    <td style="border: none"><b style="font-size:25px">Childhood leukaemia</b></td>
-    <td style="border: none"><b style="font-size:25px">Systems biology</b></td>
-    <td style="border: none"><b style="font-size:25px">Data viz</b></td>
-    <td style="border: none"><b style="font-size:25px">Data science</b></td>
+<table style="border: none;">
+<tr style="border: none;">
+    <td style="border: none;"><b style="font-size:25px">Cancer genomics</b></td>
+    <td style="border: none;"><b style="font-size:25px">Childhood leukaemia</b></td>
+    <td style="border: none;"><b style="font-size:25px">Systems biology</b></td>
+    <td style="border: none;"><b style="font-size:25px">Data viz</b></td>
+    <td style="border: none;"><b style="font-size:25px">Data science</b></td>
 </tr>
 </table>
 
