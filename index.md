@@ -58,7 +58,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
               <td><b>PhD</b> <br>2020 - present <br>
                           Supervisos:  <a href="https://people.ucd.ie/jonathan.bond">Prof Jonathan Bond</a> and
                           <a href="https://people.ucd.ie/colm.ryan">Dr Colm Ryan</a><br>
-                          Currently working on using biological networks to uncover vulnerabilities in childhood leukaemia. I am using large datasets from patients and cell-line models such as WGS, RNA-Seq, proteomics, CRISPR screens to compare leukaemia subtypes.</td> </tr>         
+                          Currently working on using biological networks to uncover <br> vulnerabilities in childhood leukaemia. I am using large <br> datasets from patients and cell-line models such as WGS, <br> RNA-Seq, proteomics, CRISPR screens to compare leukaemia subtypes.</td> </tr>         
               <tr>
               <td><img src="./logos/uon.png" alt="UoN" width="250"><br></td>
               <td><b>Masters project </b> <br>Sep 2019 - May 2020 <br> 
