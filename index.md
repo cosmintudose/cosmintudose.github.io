@@ -21,7 +21,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 
 
 <hr style="height:1.5px;border-width:0;color:gray;background-color:gray"> 
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none; margin: 0px auto;">
 <tr style="border: none;">
     <td style="border: none;"><b>Cancer genomics</b></td>
     <td style="border: none;"><b>Childhood leukaemia</b></td>
@@ -30,12 +30,10 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 </tr>
 </table>
 <hr style="height:1.5px;border-width:0;color:gray;background-color:gray"> 
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none; margin: 0px auto;">
 <tr style="border: none;">
-    <td style="border: none;"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></td>
     <td style="border: none;"><b>Data science</b></td>
     <td style="border: none;"><b>Bioinformatics</b></td>
-    <td style="border: none;"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></td>
 </tr>
 </table>
 <hr style="height:1.5px;border-width:0;color:gray;background-color:gray"> 
