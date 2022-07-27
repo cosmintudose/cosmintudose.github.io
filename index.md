@@ -16,7 +16,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 <p>&nbsp;</p>
 
 
-<h2><i class="fas fa-thumbtack"></i> Interesets</h2>
+<h2><i class="fas fa-thumbtack"></i> Interests</h2>
 <p style="margin:30px;"></p>
 
 
