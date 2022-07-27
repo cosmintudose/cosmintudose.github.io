@@ -7,12 +7,14 @@ show_sidebar: false
 ---
 
 # About
+<div style="text-align: right">
 I am a PhD student in [Systems Biology Ireland](https://www.ucd.ie/sbi/) as part of the [Centre for Research Training (CRT) Genomics Data Science](https://genomicsdatascience.ie/) programme, co-funded by the European Commission’s Marie Sklodowska Curie Actions (MSCA) COFUND programme. 
 
 My work involves finding molecular vulnerabilities in high-risk pediatric leukemia through biological network analysis. I am interested in exploiting omics data to better understand childhood leukemia to aid in the development of better treatments. 
 
 I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/) and [Ryan](https://www.ucd.ie/sbi/team/groups/ryangroup/) groups in [SBI, UCD](https://www.ucd.ie/sbi/).
-
+</div>
+    
 <p>&nbsp;</p>
 
 
