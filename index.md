@@ -20,12 +20,12 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 <p style="margin:30px;"></p>
 
 <table style="border-collapse: collapse;">
-<tr>
-    <td><b style="font-size:25px">Cancer genomics</b></td>
-    <td><b style="font-size:25px">Childhood leukaemia</b></td>
-    <td><b style="font-size:25px">Systems biology</b></td>
-    <td><b style="font-size:25px">Data viz</b></td>
-    <td><b style="font-size:25px">Data science</b></td>
+<tr style="border: none">
+    <td style="border: none"><b style="font-size:25px">Cancer genomics</b></td>
+    <td style="border: none"><b style="font-size:25px">Childhood leukaemia</b></td>
+    <td style="border: none"><b style="font-size:25px">Systems biology</b></td>
+    <td style="border: none"><b style="font-size:25px">Data viz</b></td>
+    <td style="border: none"><b style="font-size:25px">Data science</b></td>
 </tr>
 </table>
 
