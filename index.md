@@ -18,15 +18,17 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 
 <h2><i class="fas fa-thumbtack"></i> Interesets</h2>
 <p style="margin:30px;"></p>
+
 <table border="0">
- <tr>
-    <td><div style="color:black">&#9632; <b style="font-size:20px">Cancer genomics </div></b></td>
+<tr>
+    <td><b style="font-size:20px">Cancer genomics</b></td>
     <td><b style="font-size:20px">Childhood leukaemia</b></td>
     <td><b style="font-size:20px">Systems biology</b></td>
     <td><b style="font-size:20px">Data viz</b></td>
     <td><b style="font-size:20px">Data science</b></td>
- </tr>
+</tr>
 </table>
+
 
 <h2><i class="fa fa-graduation-cap"></i> Background</h2>
 <p style="margin:30px;"></p>
