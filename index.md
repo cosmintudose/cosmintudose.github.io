@@ -19,6 +19,8 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 <h2><i class="fas fa-thumbtack"></i> Interesets</h2>
 <p style="margin:30px;"></p>
 
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray"> 
 <table style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
     <td style="border: none;"><b style="font-size:22px">Cancer genomics</b></td>
@@ -28,6 +30,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
     <td style="border: none;"><b style="font-size:22px">Data science</b></td>
 </tr>
 </table>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray"> 
 
 <p>&nbsp;</p>
 
