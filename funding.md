@@ -7,4 +7,4 @@ Research conducted with the financial support of Science Foundation Ireland unde
 
 This research was supported in part by the EU’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant H2020-MSCA-COFUND-2019-945385.  
 
-![CRT](./logos/crt.png){:width="250px"} ![EU](./logos/eu.png){:width="250px"}
+![CRT](./logos/crt.png){:width="200px"} ![EU](./logos/eu.png){:width="200px"}
