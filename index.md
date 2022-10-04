@@ -87,16 +87,16 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 
 <div><h2><i class="fas fa-chalkboard-teacher"></i> Presentations</h2></div>
 
-- September 2022 - **CRISPR and Beyond: Perturbations at Scale to Understand Genomes** - Wellcome Genome Campus, UK
+- September 2022 - **CRISPR and Beyond: Perturbations at Scale to Understand Genomes** - Wellcome Genome Campus, UK  
 Talk: Sensitivity to gene inhibition in cancer cells is better predicted by mRNA abundance than by gene regulatory network-inferred activity  
 
-- June 2022 - **VIBE Conference** - Limerick, Ireland
+- June 2022 - **VIBE Conference** - Limerick, Ireland  
 Talk: Sensitivity to gene inhibition in cancer cells is better predicted by mRNA abundance than by gene regulatory network-inferred activity  
 
-- February 2022 - **Systems Genomics Summit** - Virtual
+- February 2022 - **Systems Genomics Summit** - Virtual  
 Poster: Gene regulatory network-inferred driver activity as a predictor of cancer cells sensitivity to gene inhibition  
 
-- October 2021 - **Conway Festival** - Virtual
+- October 2021 - **Conway Festival** - Virtual  
 Poster: Gene regulatory network-inferred driver activity as a predictor of cancer cells sensitivity to gene inhibition  
 
 
