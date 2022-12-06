@@ -87,7 +87,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 
 <div><h2><i class="fas fa-chalkboard-teacher"></i> Presentations</h2></div>
 
-- December 2022 - **Irish Computation Biology and Genomics Symposium** - University of Galway, Ireland  
+- December 2022 - **Irish Computational Biology and Genomics Symposium** - University of Galway, Ireland  
 Talk: The dual role of PRC2 in gene regulation in acute myeloid leukaemia
 
 - September 2022 - **CRISPR and Beyond: Perturbations at Scale to Understand Genomes** - Wellcome Genome Campus, UK  
