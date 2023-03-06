@@ -68,7 +68,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
               <img src="./logos/crt.png" alt="CRT" width="190"><br>
 </td>
               <td><b>PhD</b> <br>2020 - present <br>
-                          Supervisos:  <a href="https://people.ucd.ie/jonathan.bond">Prof Jonathan Bond</a> and
+                          Supervisors:  <a href="https://people.ucd.ie/jonathan.bond">Prof Jonathan Bond</a> and
                           <a href="https://people.ucd.ie/colm.ryan">Dr Colm Ryan</a><br>
                           Currently working on using biological networks to uncover <br> vulnerabilities in childhood leukaemia. I am using large <br> datasets from patients and cell-line models such as WGS, <br> RNA-Seq, proteomics, CRISPR screens to compare leukaemia subtypes.</td> </tr>         
               <tr>
@@ -82,6 +82,13 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
                           <br> 
                           Worked on zebrafish mutant embryos to investigate how <br> the expression of macrophage marker genes changes over <br> different time-points post fertilisation. <br> Learnt about developmental biology and gene regulation. <br> Methods used: embryo handling, RNA in-situ hybridization, <br> PCR and light microscopy. </td> </tr>
 </table>
+
+<p>&nbsp;</p>
+
+<div><h2><i class="far fa-file-alt"></i> Publications</h2></div>
+
+- Cosmin Tudose, Jonathan Bond & Colm Ryan - <a href="https://www.biorxiv.org/content/10.1101/2023.03.02.530664v2">Gene essentiality in cancer is better predicted by mRNA abundance than by gene regulatory network-inferred activity</a> - *bioRxiv*
+
 
 <p>&nbsp;</p>
 
@@ -101,6 +108,8 @@ Poster: Gene regulatory network-inferred driver activity as a predictor of cance
 
 - October 2021 - **Conway Festival** - Virtual  
 Poster: Gene regulatory network-inferred driver activity as a predictor of cancer cells sensitivity to gene inhibition  
+
+
 
 
 <!---## Documentation
