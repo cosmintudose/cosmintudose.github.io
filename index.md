@@ -12,7 +12,7 @@ I am a PhD student in [Systems Biology Ireland](https://www.ucd.ie/sbi/) as part
 
 My work involves finding molecular vulnerabilities in high-risk pediatric leukemia through biological network analysis. I am interested in exploiting omics data to better understand childhood leukemia to aid in the development of better treatments. 
 
-I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/) and [Ryan](https://www.ucd.ie/sbi/team/groups/ryangroup/) groups in [SBI, UCD](https://www.ucd.ie/sbi/).
+I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/) and [Ryan](https://cancerdata.ucd.ie/) groups in [SBI, UCD](https://www.ucd.ie/sbi/).
 </p>
     
 <p>&nbsp;</p>
