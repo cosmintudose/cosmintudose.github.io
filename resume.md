@@ -3,4 +3,7 @@ layout: page
 title: Resume
 ---
 
-Not available
+[Click to Download]([https://github.com/cosmintudose/cosmintudose.github.io/assets/img/resume.pdf])
+
+
+Last updated: July 2023
