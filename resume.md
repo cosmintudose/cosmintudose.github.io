@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-[Click to Download](blob:https://github.com/db8577aa-6d0f-4986-a3ae-658d4917e02b)
+<a id="raw-url" href="https://raw.githubusercontent.com/cosmintudose/cosmintudose.github.io/tree/master/assets/img/resume.pdf">Click to download</a>
 
 
 Last updated: July 2023
