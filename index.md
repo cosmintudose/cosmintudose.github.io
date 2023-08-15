@@ -87,8 +87,9 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 
 <div><h2><i class="far fa-file-alt"></i> Publications</h2></div>
 
-- Cosmin Tudose, Jonathan Bond & Colm Ryan - <a href="https://www.biorxiv.org/content/10.1101/2023.03.02.530664v2">Gene essentiality in cancer is better predicted by mRNA abundance than by gene regulatory network-inferred activity</a> - *bioRxiv*
+- Cosmin Tudose, Jonathan Bond & Colm J. Ryan - <a href="https://www.biorxiv.org/content/10.1101/2023.03.02.530664v2">Gene essentiality in cancer is better predicted by mRNA abundance than by gene regulatory network-inferred activity</a> - *bioRxiv*
 
+- Thomas Lefeivre, Cosmin Tudose, Theodora-Ioana Grosu, Luke Jones, Theresa E. León, Kieran Wynne, Giorgio Oliviero, Owen P. Smith, Amélie Trinquand, Marc R. Mansour, Colm J. Ryan, Jonathan Bond - <a href="https://www.biorxiv.org/content/10.1101/2023.08.04.552014v1">Loss of Polycomb Repressive Complex 2 function causes asparaginase resistance in T-acute lymphoblastic leukemia through decreased WNT pathway activity</a> - *bioRxiv*
 
 <p>&nbsp;</p>
 
