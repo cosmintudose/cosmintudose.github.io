@@ -94,6 +94,12 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 <p>&nbsp;</p>
 
 <div><h2><i class="fas fa-chalkboard-teacher"></i> Presentations</h2></div>
+ 
+- September 2023 - **20th Anniversary of Childhood Leukaemia Research UK** - University of Strathclyde, Glasgow
+**Talk**: The role of PRC2 in gene regulation and 3D chromatin architecture in acute myeloid leukaemia
+
+- September 2023 - **BCNI Blood Cancer Symposium** - Hilton Kilmainham, Dublin, Ireland  
+**Poster**: The role of PRC2 in gene regulation in acute myeloid leukaemia
 
 - July 2023 - **All-Ireland Haematology Forum** - Queen's University Belfast, UK  
 **Poster**: The role of PRC2 in gene regulation in acute myeloid leukaemia
