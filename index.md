@@ -90,13 +90,16 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 
 <div><h2><i class="far fa-file-alt"></i> Publications</h2></div>
 
-- Cosmin Tudose, Jonathan Bond & Colm J. Ryan - <a href="https://www.biorxiv.org/content/10.1101/2023.03.02.530664v2">Gene essentiality in cancer is better predicted by mRNA abundance than by gene regulatory network-inferred activity</a> - *bioRxiv*
+- Cosmin Tudose, Jonathan Bond, Colm J Ryan - <a href="https://doi.org/10.1093/narcan/zcad056">Gene essentiality in cancer is better predicted by mRNA abundance than by gene regulatory network-inferred activity, NAR Cancer, Volume 5, Issue 4, December 2023</a>
 
 - Thomas Lefeivre, Cosmin Tudose, Theodora-Ioana Grosu, Luke Jones, Theresa E. León, Kieran Wynne, Giorgio Oliviero, Owen P. Smith, Amélie Trinquand, Marc R. Mansour, Colm J. Ryan, Jonathan Bond - <a href="https://www.biorxiv.org/content/10.1101/2023.08.04.552014v1">Loss of Polycomb Repressive Complex 2 function causes asparaginase resistance in T-acute lymphoblastic leukemia through decreased WNT pathway activity</a> - *bioRxiv*
 
 <p>&nbsp;</p>
 
 <div><h2><i class="fas fa-chalkboard-teacher"></i> Presentations</h2></div>
+
+ - December 2023 - **Irish Computational Biology and Genomics Symposium** - University of Galway, Ireland
+ **Poster**: The role of PRC2 in gene regulation and 3D chromatin architecture in acute myeloid leukaemia
 
  - October 2023 - **IUBMB Focused Meeting on Integrative Omics of Nuclear Functions** - Avra Imperial Hotel, Kolymvari, Greece  
  **Talk**: The role of PRC2 in gene regulation and 3D chromatin architecture in acute myeloid leukaemia
