@@ -98,7 +98,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 
 <div><h2><i class="fas fa-chalkboard-teacher"></i> Presentations</h2></div>
 
- - December 2023 - **Irish Computational Biology and Genomics Symposium** - University of Galway, Ireland
+ - December 2023 - **Irish Computational Biology and Genomics Symposium** - University of Galway, Ireland  
  **Poster**: The role of PRC2 in gene regulation and 3D chromatin architecture in acute myeloid leukaemia
 
  - October 2023 - **IUBMB Focused Meeting on Integrative Omics of Nuclear Functions** - Avra Imperial Hotel, Kolymvari, Greece  
