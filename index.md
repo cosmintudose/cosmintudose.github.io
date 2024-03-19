@@ -98,6 +98,9 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 
 <div><h2><i class="fas fa-chalkboard-teacher"></i> Presentations</h2></div>
 
+ - February 2024 - **EACR-AACR-IACR 2024** - Dublin, Ireland  
+ **Poster**: The role of PRC2 in gene regulation and 3D chromatin architecture in acute myeloid leukaemia
+
  - December 2023 - **Irish Computational Biology and Genomics Symposium** - University of Galway, Ireland  
  **Poster**: The role of PRC2 in gene regulation and 3D chromatin architecture in acute myeloid leukaemia
 
