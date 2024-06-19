@@ -90,11 +90,11 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 
 <div><h2><i class="far fa-file-alt"></i> Publications</h2></div>
 
-- **Cosmin Tudose**, Jonathan Bond, Colm J Ryan - <a href="https://doi.org/10.1093/narcan/zcad056">Gene essentiality in cancer is better predicted by mRNA abundance than by gene regulatory network-inferred activity, NAR Cancer, Volume 5, Issue 4, December 2023</a>
+- **Cosmin Tudose**, Jonathan Bond, Colm J Ryan - <a href="https://doi.org/10.1093/narcan/zcad056">Gene essentiality in cancer is better predicted by mRNA abundance than by gene regulatory network-inferred activity. NAR Cancer, Volume 5, Issue 4, December 2023</a>
 
 - Thomas Lefeivre, **Cosmin Tudose**, Theodora-Ioana Grosu, Luke Jones, Theresa E. León, Kieran Wynne, Giorgio Oliviero, Owen P. Smith, Amélie Trinquand, Marc R. Mansour, Colm J. Ryan, Jonathan Bond - <a href="https://www.biorxiv.org/content/10.1101/2023.08.04.552014v1">Loss of Polycomb Repressive Complex 2 function causes asparaginase resistance in T-acute lymphoblastic leukemia through decreased WNT pathway activity</a> - *bioRxiv*
 
-- Emma Grady, Sharmila Biswas, Tânia Dias, Peter McCarthy, **Cosmin Tudose**, David Betts, Andrea Malone, Jonathan Bond -  <a href="https://doi.org/10.1111/bjh.19587">A novel TCF3::PIK3R1 fusion linked to decreased PI3K‐AKT signalling activity in paediatric B‐acute lymphoblastic leukaemia</a> British Journal of Haematology June 2024</a>
+- Emma Grady, Sharmila Biswas, Tânia Dias, Peter McCarthy, **Cosmin Tudose**, David Betts, Andrea Malone, Jonathan Bond -  <a href="https://doi.org/10.1111/bjh.19587">A novel TCF3::PIK3R1 fusion linked to decreased PI3K‐AKT signalling activity in paediatric B‐acute lymphoblastic leukaemia. British Journal of Haematology, June 2024</a>
 
 <p>&nbsp;</p>
 
