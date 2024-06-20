@@ -101,7 +101,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 <div><h2><i class="fas fa-chalkboard-teacher"></i> Presentations</h2></div>
 
 - June 2024 - **European Hematology Association Congress** - Madrid, Spain  
- **Flash Talk**: The role of PRC2 in gene regulation and 3D chromatin architecture in acute myeloid leukaemia
+ **Poster**: The role of PRC2 in gene regulation and 3D chromatin architecture in acute myeloid leukaemia
 
 - May 2024 - **EMBO Intercepting Childhood Blood Cancer: From Single Cells To Malignant Clones** - Düsseldorf, Germany  
  **Flash Talk**: The role of PRC2 in gene regulation and 3D chromatin architecture in acute myeloid leukaemia
