@@ -1,6 +1,6 @@
 ---
 title: Cosmin Tudose
-subtitle: Cancer Omics | Chromatin archtecture | Bioinformatics | Data Science
+subtitle: Bioinformatics | Cancer Omics | Epigenomics  
 layout: home
 callouts: home_callouts
 show_sidebar: false
@@ -25,9 +25,9 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 <hr style="height:1.5px;border-width:0;color:gray;background-color:gray"> 
 <table style="border-collapse: collapse; border: none; margin: 0px auto;">
 <tr style="border: none;">
-    <td style="border: none;"><b>Cancer genomics</b></td>
+    <td style="border: none;"><b>Cancer biology</b></td>
     <td style="border: none;"><b>Childhood leukaemia</b></td>
-    <td style="border: none;"><b>Systems biology</b></td>
+    <td style="border: none;"><b>Epigenomics</b></td>
     <td style="border: none;"><b>Data viz</b></td>
     <td style="border: none;"><b>NGS</b></td>
 </tr>
