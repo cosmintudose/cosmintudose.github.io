@@ -70,9 +70,9 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
               <td><img src="./logos/sbi.png" alt="SBI" width="190"><br><br>
               <img src="./logos/crt.png" alt="CRT" width="190"><br>
 </td>
-              <td><b>PhD</b> <br>2020 - present <br>
+              <td><b>PhD</b> <br>2020 - 2024 <br>
                           Supervisors:  <a href="https://people.ucd.ie/jonathan.bond">Prof Jonathan Bond</a> and
-                          <a href="https://people.ucd.ie/colm.ryan">Dr Colm Ryan</a><br>
+                          <a href="https://people.ucd.ie/colm.ryan">Prof Colm Ryan</a><br>
                           Currently working on using biological networks to uncover <br> vulnerabilities in childhood leukaemia. I am using large <br> datasets from patients and cell-line models such as WGS, <br> RNA-Seq, proteomics, CRISPR screens to compare leukaemia subtypes.</td> </tr>         
               <tr>
               <td><img src="./logos/uon.png" alt="UoN" width="190"><br></td>
@@ -100,6 +100,9 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 
 <div><h2><i class="fas fa-chalkboard-teacher"></i> Presentations</h2></div>
 
+- October 2024 - **UCD Conway Festival gold medal competition** - Dublin, Ireland  
+ **Talk**: Gene essentiality in cancer is better predicted by mRNA abundance than by gene regulatory network-inferred activity 
+  
 - June 2024 - **European Hematology Association Congress** - Madrid, Spain  
  **Poster**: The role of PRC2 in gene regulation and 3D chromatin architecture in acute myeloid leukaemia
 
