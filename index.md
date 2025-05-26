@@ -100,6 +100,12 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 
 <div><h2><i class="fas fa-chalkboard-teacher"></i> Presentations</h2></div>
 
+<a href="thesis/thesis.pdf" download="thesis.pdf">Defining molecular vulnerabilities in childhood leukaemia through biological network analysis</a>
+
+<p>&nbsp;</p>
+
+<div><h2><i class="fas fa-chalkboard-teacher"></i> Presentations</h2></div>
+
 - October 2024 - **UCD Conway Festival gold medal competition** - Dublin, Ireland  
  **Talk**: Gene essentiality in cancer is better predicted by mRNA abundance than by gene regulatory network-inferred activity 
   
