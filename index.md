@@ -65,14 +65,14 @@ My work involves analysis and interpretation of genetic networks from large scal
 
 <table class="table table-hover">
               <tr>
-              <td><img src="./logos/sbi.png" alt="SBI" width="190"><br><br>
-              <img src="./logos/crt.png" alt="CRT" width="190"><br>
+              <td><img src="./logos/ibc2.png" alt="IBCII" width="190"><br><br>
 </td>
               <td><b>PhD</b> <br>2025 -  <br>
                           Supervisor:  <a href="https://biochem2.com/people/kaulich-manuel">Prof Manuel Kaulich</a><br>
                           I am currently working on understanding the genetic interactions within the ubiquitin-proteasome system.</td> </tr>
               <tr>
-              <td><img src="./logos/ibc2.png" alt="IBCII" width="190"><br><br>
+              <td><img src="./logos/sbi.png" alt="SBI" width="190"><br><br>
+              <img src="./logos/crt.png" alt="CRT" width="190"><br>
 </td>
               <td><b>PhD</b> <br>2020 - 2024 <br>
                           Supervisors:  <a href="https://people.ucd.ie/jonathan.bond">Prof Jonathan Bond</a> and
