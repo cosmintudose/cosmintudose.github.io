@@ -8,11 +8,10 @@ show_sidebar: false
 
 # About
 <p style="text-align: justify">
-I am a PhD student in [Systems Biology Ireland](https://www.ucd.ie/sbi/) as part of the [Centre for Research Training (CRT) Genomics Data Science](https://genomicsdatascience.ie/) programme, co-funded by the European Commission’s Marie Sklodowska Curie Actions (MSCA) COFUND programme. 
+I am a Postodoctoral researcher in the [Kaulich Lab for Perturbation Genetics](https://biochem2.com/research-group/gene-editing) as part of the [Institute of Biochemistry II](https://biochem2.com/) in [Goethe-Universität Frankfurt](https://www.goethe-university-frankfurt.de/en?locale=en).
 
-My work involves finding molecular vulnerabilities in high-risk pediatric leukemia through biological network analysis. I am interested in exploiting omics data to better understand childhood leukemia to aid in the development of better treatments. 
+My work involves analysis and interpretation of genetic networks from large scale pooled CRISPR screen data to better understand the cancer genome. 
 
-I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/) and [Ryan](https://cancerdata.ucd.ie/) groups in [SBI, UCD](https://www.ucd.ie/sbi/).
 </p>
     
 <p>&nbsp;</p>
@@ -26,7 +25,6 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 <table style="border-collapse: collapse; border: none; margin: 0px auto;">
 <tr style="border: none;">
     <td style="border: none;"><b>Cancer biology</b></td>
-    <td style="border: none;"><b>Childhood leukaemia</b></td>
     <td style="border: none;"><b>Epigenomics</b></td>
     <td style="border: none;"><b>Data viz</b></td>
     <td style="border: none;"><b>NGS</b></td>
@@ -37,7 +35,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
 <tr style="border: none;">
     <td style="border: none;"><b>Data science</b></td>
     <td style="border: none;"><b>Bioinformatics</b></td>
-    <td style="border: none;"><b>Chromatin architecture</b></td>
+    <td style="border: none;"><b>Functional genomics</b></td>
 
 </tr>
 </table>
@@ -54,7 +52,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
               <td><img src="./logos/sbi.png" alt="SBI" width="250"><br><br>
               <img src="./logos/crt.png" alt="CRT" width="250"><br>
 </td>
-              <td><b>PhD student, Systems Biology Ireland, UCD </b> <br>2020 - present <br>Identifying molecular vulenarabilities in childhood leukaemia through biological network analysis.</td> </tr>
+              <td><b>PhD student, Systems Biology Ireland, UCD </b> <br>2020 - 2024 <br>Identifying molecular vulenarabilities in childhood leukaemia through biological network analysis.</td> </tr>
               <tr>
               <td><img src="./logos/uon.png" alt="UoN" width="250"><br></td>
               <td><b>MSci Hons Genetics </b> <br>2016 - 2020 <br> Awarded a first class MSci Hons degree in Genetics. </td> </tr>
@@ -73,7 +71,7 @@ I am currently part of the [Bond](https://www.ucd.ie/sbi/team/groups/bondgroup/)
               <td><b>PhD</b> <br>2020 - 2024 <br>
                           Supervisors:  <a href="https://people.ucd.ie/jonathan.bond">Prof Jonathan Bond</a> and
                           <a href="https://people.ucd.ie/colm.ryan">Prof Colm Ryan</a><br>
-                          Currently working on using biological networks to uncover <br> vulnerabilities in childhood leukaemia. I am using large <br> datasets from patients and cell-line models such as WGS, <br> RNA-Seq, proteomics, CRISPR screens to compare leukaemia subtypes.</td> </tr>         
+                          My work involved using biological networks to uncover <br> vulnerabilities in childhood leukaemia. Performed analyses on large <br> datasets from patients and cell-line models such as WGS, <br> RNA-Seq, proteomics, epigenomics, CRISPR screens to understand leukaemia.</td> </tr>         
               <tr>
               <td><img src="./logos/uon.png" alt="UoN" width="190"><br></td>
               <td><b>Masters project </b> <br>Sep 2019 - May 2020 <br> 
