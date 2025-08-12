@@ -67,7 +67,7 @@ My work involves analysis and interpretation of genetic networks from large scal
               <tr>
               <td><img src="./logos/ibc2.png" alt="IBCII" width="190"><br><br>
 </td>
-              <td><b>PhD</b> <br>2025 -  <br>
+              <td><b>Postdoc</b> <br>2025 -  <br>
                           Supervisor:  <a href="https://biochem2.com/people/kaulich-manuel">Prof Manuel Kaulich</a><br>
                           I am currently working on understanding the genetic interactions within the ubiquitin-proteasome system.</td> </tr>
               <tr>
