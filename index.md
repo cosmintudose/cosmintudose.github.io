@@ -68,10 +68,16 @@ My work involves analysis and interpretation of genetic networks from large scal
               <td><img src="./logos/sbi.png" alt="SBI" width="190"><br><br>
               <img src="./logos/crt.png" alt="CRT" width="190"><br>
 </td>
+              <td><b>PhD</b> <br>2025 -  <br>
+                          Supervisor:  <a href="https://biochem2.com/people/kaulich-manuel">Prof Manuel Kaulich</a><br>
+                          I am currently working on understanding the genetic interactions within the ubiquitin-proteasome system.</td> </tr>
+              <tr>
+              <td><img src="./logos/ibc2.png" alt="IBCII" width="190"><br><br>
+</td>
               <td><b>PhD</b> <br>2020 - 2024 <br>
                           Supervisors:  <a href="https://people.ucd.ie/jonathan.bond">Prof Jonathan Bond</a> and
                           <a href="https://people.ucd.ie/colm.ryan">Prof Colm Ryan</a><br>
-                          My work involved using biological networks to uncover <br> vulnerabilities in childhood leukaemia. Performed analyses on large <br> datasets from patients and cell-line models such as WGS, <br> RNA-Seq, proteomics, epigenomics, CRISPR screens to understand leukaemia.</td> </tr>         
+                          My work involved using biological networks to uncover <br> vulnerabilities in childhood leukaemia. Performed analyses <br> on large datasets from patient samples and cell-line models such as <br> WGS, RNA-Seq, proteomics, epigenomics, CRISPR screens to understand leukaemia.</td> </tr>         
               <tr>
               <td><img src="./logos/uon.png" alt="UoN" width="190"><br></td>
               <td><b>Masters project </b> <br>Sep 2019 - May 2020 <br> 
