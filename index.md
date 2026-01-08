@@ -96,11 +96,13 @@ My work involves analysis and interpretation of genetic networks from large scal
 
 - **Cosmin Tudose**, Luke Jones, Theodora-Ioana Grosu, Marie-Claire Fitzgerald, Noura Maziak, Rebecca Ling, Anindita Roy, Juan M. Vaquerizas, Colm J. Ryan, Jonathan Bond - <a href="https://doi.org/10.1101/2025.08.28.672871">Diverse epigenomic mechanisms underpin transcriptional dysregulation in Polycomb-altered acute myeloid leukemia</a> - *bioRxiv*
 
-- **Cosmin Tudose**, Jonathan Bond, Colm J. Ryan - <a href="https://doi.org/10.1093/narcan/zcad056">Gene essentiality in cancer is better predicted by mRNA abundance than by gene regulatory network-inferred activity. NAR Cancer, Volume 5, Issue 4, December 2023</a>
+- Arghya Dutta, Alberto Cristiani, Siddhanta V. Nikte, Jonathan Eisert, Yves Matthess, Borna Markusic, **Cosmin Tudose**, Chiara Becht, Varun Jayeshkumar Shah, Thorsten Mosler, Koraljka Husnjak, Ivan Dikic, Manuel Kaulich, Ramachandra M. Bhaskara - <a href="https://doi.org/10.1038/s41467-025-67450-9">Multi-scale classification decodes the complexity of the human E3 ligome. Nature Communications, 16(1), December 2025</a>
 
 - Thomas Lefeivre, Theodora-Ioana Grosu, **Cosmin Tudose**, Luke Jones, Theresa E. León, Kieran Wynne, Giorgio Oliviero, Owen P. Smith, Amélie Trinquand, Marc R. Mansour, Colm J. Ryan, Jonathan Bond - <a href="https://doi.org/10.1182/bloodadvances.2024015408">Reduced PRC2 function causes asparaginase resistance in T-ALL by decreasing WNT pathway activity. Blood Advances, December 2025</a>    
 
 - Emma Grady, Sharmila Biswas, Tânia Dias, Peter McCarthy, **Cosmin Tudose**, David Betts, Andrea Malone, Jonathan Bond -  <a href="https://doi.org/10.1111/bjh.19587">A novel TCF3::PIK3R1 fusion linked to decreased PI3K‐AKT signalling activity in paediatric B‐acute lymphoblastic leukaemia. British Journal of Haematology, June 2024</a>
+
+- **Cosmin Tudose**, Jonathan Bond, Colm J. Ryan - <a href="https://doi.org/10.1093/narcan/zcad056">Gene essentiality in cancer is better predicted by mRNA abundance than by gene regulatory network-inferred activity. NAR Cancer, Volume 5, Issue 4, December 2023</a>
 
 <p>&nbsp;</p>
 
