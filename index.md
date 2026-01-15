@@ -114,6 +114,9 @@ My work involves analysis and interpretation of genetic networks from large scal
 
 <div><h2><i class="fas fa-chalkboard-teacher"></i> Presentations</h2></div>
 
+- December 2025 - **PROXIDRUGS annual meeting** - Kassel, Germany
+**Talk**: Mapping the genetic interactions of the human ubiquitin-proteasome system
+
 - October 2024 - **UCD Conway Festival gold medal competition** - Dublin, Ireland  
  **Talk**: Gene essentiality in cancer is better predicted by mRNA abundance than by gene regulatory network-inferred activity 
   
